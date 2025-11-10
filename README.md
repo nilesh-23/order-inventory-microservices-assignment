@@ -180,7 +180,7 @@ mvn test
 
 ---
 
-### 🧮 Order Service Tests
+### Order Service Tests
 
 **Run:**
 
